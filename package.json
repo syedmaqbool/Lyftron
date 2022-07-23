@@ -1,0 +1,23 @@
+{
+  "name": "lyftron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "express-minify-html": "^0.12.0",
+    "node-fetch": "^3.2.9",
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
+    "request": "^2.88.2",
+    "sequelize": "^6.21.3"
+  }
+}
