@@ -39,3 +39,6 @@ ALTER TABLE IF EXISTS public.users
     
  npm install
  
+ Step 4:
+ npm start
+ 
